@@ -5,7 +5,7 @@ Please post your job openings here, include contact details. We will be happy to
 
 Ideally, post:
 
-Position
-Qualifications needed
-Benefits
-Contact e-mail
+1. Position
+2. Qualifications needed
+3. Benefits
+4. Contact e-mail
